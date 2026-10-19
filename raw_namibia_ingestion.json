@@ -1,0 +1,38 @@
+[
+    {
+        "node": "Windhoek",
+        "region": "Khomas",
+        "primary_sector": "Banking & Services",
+        "timestamp": "2026-10-19T00:09:21.743156",
+        "temperature_celsius": 16.4,
+        "humidity_percent": 50,
+        "precipitation_mm": 0.0
+    },
+    {
+        "node": "Walvis Bay",
+        "region": "Erongo",
+        "primary_sector": "Logistics & Shipping",
+        "timestamp": "2026-10-19T00:09:24.515732",
+        "temperature_celsius": 15.2,
+        "humidity_percent": 76,
+        "precipitation_mm": 0.0
+    },
+    {
+        "node": "Rundu",
+        "region": "Kavango East",
+        "primary_sector": "Agriculture & Farming",
+        "timestamp": "2026-10-19T00:09:26.230724",
+        "temperature_celsius": 24.0,
+        "humidity_percent": 29,
+        "precipitation_mm": 0.0
+    },
+    {
+        "node": "Keetmanshoop",
+        "region": " //Kharas",
+        "primary_sector": "Mining & Energy",
+        "timestamp": "2026-10-19T00:09:27.870222",
+        "temperature_celsius": 11.5,
+        "humidity_percent": 70,
+        "precipitation_mm": 0.0
+    }
+]
